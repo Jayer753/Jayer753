@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tawan-ptk">
+  <a href="https://github.com/Jayer753">
     <img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   </a>
   <img src="https://img.shields.io/github/followers/tawan-ptk?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
