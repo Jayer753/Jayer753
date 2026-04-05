@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Jayer753">
-    <img src="https://komarev.com/ghpvc/?username=tawan-ptk&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Jayer753&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   </a>
   <img src="https://img.shields.io/github/followers/tawan-ptk?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </p>
@@ -27,14 +27,11 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="[https://facebook.com/YOUR_USERNAME](https://www.facebook.com/jay.yer.2024/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="[https://instagram.com/YOUR_USERNAME](https://www.instagram.com/jj_jayerr/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/YOUR_CHANNEL_ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
