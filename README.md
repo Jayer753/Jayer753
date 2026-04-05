@@ -17,10 +17,9 @@
 
 ### 💫 About Me
 
-- 🔭 **Working on:** [ระบุโปรเจกต์ที่ทำอยู่]
-- 🌱 **Learning:** [สิ่งที่กำลังศึกษา เช่น React, Python, AI]
-- 💬 **Ask me about:** [เรื่องที่เชี่ยวชาญ]
-- ⚡ **Fun fact:** [เรื่องตลกๆ หรือความภูมิใจส่วนตัว]
+- 🔭 **Working on:** to be continued
+- 🌱 **Learning:** React, ROS2
+- 💬 **Ask me about:** ...
 
 ---
 
@@ -48,12 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawan-ptk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-ptk&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayer753&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayer753&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tawan-ptk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayer753&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -61,7 +60,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tawan-ptk&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayer753&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
