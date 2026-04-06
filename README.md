@@ -39,7 +39,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,swift,fusion,html,css,js,git,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,swift&theme=light" />
 </p>
 
 ---
